@@ -1,0 +1,1563 @@
+These are the jobs that might fail if we don't do the migration
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 4
+job number assigned to this car : 4
+departure time of this car : 115
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 11
+job number assigned to this car : 11
+departure time of this car : 122
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 13
+job number assigned to this car : 13
+departure time of this car : 50
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 17
+job number assigned to this car : 17
+departure time of this car : 60
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 47
+job number assigned to this car : 47
+departure time of this car : 158
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 53
+job number assigned to this car : 53
+departure time of this car : 91
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 69
+job number assigned to this car : 69
+departure time of this car : 193
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 76
+job number assigned to this car : 76
+departure time of this car : 87
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 87
+job number assigned to this car : 87
+departure time of this car : 123
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 110
+job number assigned to this car : 110
+departure time of this car : 252
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 120
+job number assigned to this car : 120
+departure time of this car : 59
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 121
+job number assigned to this car : 121
+departure time of this car : 40
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 135
+job number assigned to this car : 135
+departure time of this car : 186
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 159
+job number assigned to this car : 159
+departure time of this car : 121
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 167
+job number assigned to this car : 167
+departure time of this car : 73
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 168
+job number assigned to this car : 168
+departure time of this car : 220
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 179
+job number assigned to this car : 179
+departure time of this car : 99
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 180
+job number assigned to this car : 180
+departure time of this car : 16
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 184
+job number assigned to this car : 184
+departure time of this car : 28
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 186
+job number assigned to this car : 186
+departure time of this car : 47
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 193
+job number assigned to this car : 193
+departure time of this car : 75
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 201
+job number assigned to this car : 201
+departure time of this car : 56
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 205
+job number assigned to this car : 205
+departure time of this car : 53
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 223
+job number assigned to this car : 223
+departure time of this car : 172
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 238
+job number assigned to this car : 238
+departure time of this car : 4
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 264
+job number assigned to this car : 264
+departure time of this car : 136
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 305
+job number assigned to this car : 305
+departure time of this car : 96
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 314
+job number assigned to this car : 314
+departure time of this car : 172
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 327
+job number assigned to this car : 327
+departure time of this car : 179
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 333
+job number assigned to this car : 333
+departure time of this car : 20
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 353
+job number assigned to this car : 353
+departure time of this car : 265
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 359
+job number assigned to this car : 359
+departure time of this car : 218
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 368
+job number assigned to this car : 368
+departure time of this car : 136
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 382
+job number assigned to this car : 382
+departure time of this car : 124
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 417
+job number assigned to this car : 417
+departure time of this car : 127
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 441
+job number assigned to this car : 441
+departure time of this car : 76
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 447
+job number assigned to this car : 447
+departure time of this car : 188
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 486
+job number assigned to this car : 486
+departure time of this car : 129
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 498
+job number assigned to this car : 498
+departure time of this car : 249
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 509
+job number assigned to this car : 509
+departure time of this car : 150
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 511
+job number assigned to this car : 511
+departure time of this car : 116
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 518
+job number assigned to this car : 518
+departure time of this car : 137
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 526
+job number assigned to this car : 526
+departure time of this car : 186
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 556
+job number assigned to this car : 556
+departure time of this car : 281
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 557
+job number assigned to this car : 557
+departure time of this car : 140
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 573
+job number assigned to this car : 573
+departure time of this car : 17
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 574
+job number assigned to this car : 574
+departure time of this car : 198
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 590
+job number assigned to this car : 590
+departure time of this car : 19
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 613
+job number assigned to this car : 613
+departure time of this car : 42
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 632
+job number assigned to this car : 632
+departure time of this car : 125
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 633
+job number assigned to this car : 633
+departure time of this car : 121
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 651
+job number assigned to this car : 651
+departure time of this car : 176
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 656
+job number assigned to this car : 656
+departure time of this car : 79
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 706
+job number assigned to this car : 706
+departure time of this car : 137
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 707
+job number assigned to this car : 707
+departure time of this car : 26
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 719
+job number assigned to this car : 719
+departure time of this car : 97
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 720
+job number assigned to this car : 720
+departure time of this car : 36
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 726
+job number assigned to this car : 726
+departure time of this car : 24
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 736
+job number assigned to this car : 736
+departure time of this car : 130
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 749
+job number assigned to this car : 749
+departure time of this car : 36
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 755
+job number assigned to this car : 755
+departure time of this car : 90
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 757
+job number assigned to this car : 757
+departure time of this car : 171
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 764
+job number assigned to this car : 764
+departure time of this car : 104
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 767
+job number assigned to this car : 767
+departure time of this car : 234
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 774
+job number assigned to this car : 774
+departure time of this car : 107
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 793
+job number assigned to this car : 793
+departure time of this car : 199
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 808
+job number assigned to this car : 808
+departure time of this car : 27
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 840
+job number assigned to this car : 840
+departure time of this car : 219
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 854
+job number assigned to this car : 854
+departure time of this car : 71
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 855
+job number assigned to this car : 855
+departure time of this car : 212
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 857
+job number assigned to this car : 857
+departure time of this car : 241
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 877
+job number assigned to this car : 877
+departure time of this car : 256
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 890
+job number assigned to this car : 890
+departure time of this car : 188
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 895
+job number assigned to this car : 895
+departure time of this car : 123
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 910
+job number assigned to this car : 910
+departure time of this car : 286
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 938
+job number assigned to this car : 938
+departure time of this car : 10
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 950
+job number assigned to this car : 950
+departure time of this car : 151
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 954
+job number assigned to this car : 954
+departure time of this car : 48
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 977
+job number assigned to this car : 977
+departure time of this car : 104
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1029
+job number assigned to this car : 1029
+departure time of this car : 91
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1036
+job number assigned to this car : 1036
+departure time of this car : 80
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1077
+job number assigned to this car : 1077
+departure time of this car : 23
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1091
+job number assigned to this car : 1091
+departure time of this car : 148
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1097
+job number assigned to this car : 1097
+departure time of this car : 69
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1128
+job number assigned to this car : 1128
+departure time of this car : 38
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1139
+job number assigned to this car : 1139
+departure time of this car : 66
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1151
+job number assigned to this car : 1151
+departure time of this car : 118
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1152
+job number assigned to this car : 1152
+departure time of this car : 96
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1157
+job number assigned to this car : 1157
+departure time of this car : 13
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1159
+job number assigned to this car : 1159
+departure time of this car : 262
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1174
+job number assigned to this car : 1174
+departure time of this car : 110
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1202
+job number assigned to this car : 1202
+departure time of this car : 271
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1206
+job number assigned to this car : 1206
+departure time of this car : 147
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1210
+job number assigned to this car : 1210
+departure time of this car : 183
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1216
+job number assigned to this car : 1216
+departure time of this car : 66
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1228
+job number assigned to this car : 1228
+departure time of this car : 209
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1238
+job number assigned to this car : 1238
+departure time of this car : 235
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1245
+job number assigned to this car : 1245
+departure time of this car : 242
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1247
+job number assigned to this car : 1247
+departure time of this car : 53
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1262
+job number assigned to this car : 1262
+departure time of this car : 124
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1268
+job number assigned to this car : 1268
+departure time of this car : 275
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1270
+job number assigned to this car : 1270
+departure time of this car : 213
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1295
+job number assigned to this car : 1295
+departure time of this car : 98
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1320
+job number assigned to this car : 1320
+departure time of this car : 114
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1325
+job number assigned to this car : 1325
+departure time of this car : 237
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1329
+job number assigned to this car : 1329
+departure time of this car : 149
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1333
+job number assigned to this car : 1333
+departure time of this car : 109
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1343
+job number assigned to this car : 1343
+departure time of this car : 92
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1377
+job number assigned to this car : 1377
+departure time of this car : 168
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1380
+job number assigned to this car : 1380
+departure time of this car : 11
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1391
+job number assigned to this car : 1391
+departure time of this car : 78
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1398
+job number assigned to this car : 1398
+departure time of this car : 59
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1408
+job number assigned to this car : 1408
+departure time of this car : 304
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1427
+job number assigned to this car : 1427
+departure time of this car : 107
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1432
+job number assigned to this car : 1432
+departure time of this car : 60
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1443
+job number assigned to this car : 1443
+departure time of this car : 135
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1456
+job number assigned to this car : 1456
+departure time of this car : 146
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1465
+job number assigned to this car : 1465
+departure time of this car : 41
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1486
+job number assigned to this car : 1486
+departure time of this car : 6
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1545
+job number assigned to this car : 1545
+departure time of this car : 199
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1582
+job number assigned to this car : 1582
+departure time of this car : 100
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1600
+job number assigned to this car : 1600
+departure time of this car : 210
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1635
+job number assigned to this car : 1635
+departure time of this car : 51
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1636
+job number assigned to this car : 1636
+departure time of this car : 260
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1646
+job number assigned to this car : 1646
+departure time of this car : 160
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1673
+job number assigned to this car : 1673
+departure time of this car : 192
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1692
+job number assigned to this car : 1692
+departure time of this car : 164
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1709
+job number assigned to this car : 1709
+departure time of this car : 109
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1726
+job number assigned to this car : 1726
+departure time of this car : 4
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1742
+job number assigned to this car : 1742
+departure time of this car : 43
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1785
+job number assigned to this car : 1785
+departure time of this car : 161
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1795
+job number assigned to this car : 1795
+departure time of this car : 44
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1796
+job number assigned to this car : 1796
+departure time of this car : 155
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1803
+job number assigned to this car : 1803
+departure time of this car : 80
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1877
+job number assigned to this car : 1877
+departure time of this car : 0
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1897
+job number assigned to this car : 1897
+departure time of this car : 142
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1910
+job number assigned to this car : 1910
+departure time of this car : 245
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1913
+job number assigned to this car : 1913
+departure time of this car : 20
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1917
+job number assigned to this car : 1917
+departure time of this car : 185
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1927
+job number assigned to this car : 1927
+departure time of this car : 216
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1946
+job number assigned to this car : 1946
+departure time of this car : 100
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1960
+job number assigned to this car : 1960
+departure time of this car : 19
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1984
+job number assigned to this car : 1984
+departure time of this car : 119
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 1994
+job number assigned to this car : 1994
+departure time of this car : 97
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2021
+job number assigned to this car : 2021
+departure time of this car : 66
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2031
+job number assigned to this car : 2031
+departure time of this car : 30
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2033
+job number assigned to this car : 2033
+departure time of this car : 162
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2040
+job number assigned to this car : 2040
+departure time of this car : 207
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2042
+job number assigned to this car : 2042
+departure time of this car : 36
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2082
+job number assigned to this car : 2082
+departure time of this car : 29
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2089
+job number assigned to this car : 2089
+departure time of this car : 86
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2090
+job number assigned to this car : 2090
+departure time of this car : 70
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2127
+job number assigned to this car : 2127
+departure time of this car : 152
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2138
+job number assigned to this car : 2138
+departure time of this car : 1
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2139
+job number assigned to this car : 2139
+departure time of this car : 142
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2140
+job number assigned to this car : 2140
+departure time of this car : 200
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2179
+job number assigned to this car : 2179
+departure time of this car : 189
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2180
+job number assigned to this car : 2180
+departure time of this car : 1
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2193
+job number assigned to this car : 2193
+departure time of this car : 54
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2200
+job number assigned to this car : 2200
+departure time of this car : 84
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2206
+job number assigned to this car : 2206
+departure time of this car : 241
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2219
+job number assigned to this car : 2219
+departure time of this car : 20
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2233
+job number assigned to this car : 2233
+departure time of this car : 30
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2248
+job number assigned to this car : 2248
+departure time of this car : 35
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2255
+job number assigned to this car : 2255
+departure time of this car : 129
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2259
+job number assigned to this car : 2259
+departure time of this car : 29
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2263
+job number assigned to this car : 2263
+departure time of this car : 184
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2271
+job number assigned to this car : 2271
+departure time of this car : 200
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2276
+job number assigned to this car : 2276
+departure time of this car : 70
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2290
+job number assigned to this car : 2290
+departure time of this car : 275
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2294
+job number assigned to this car : 2294
+departure time of this car : 256
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2312
+job number assigned to this car : 2312
+departure time of this car : 64
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2338
+job number assigned to this car : 2338
+departure time of this car : 66
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2350
+job number assigned to this car : 2350
+departure time of this car : 31
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2365
+job number assigned to this car : 2365
+departure time of this car : 154
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2371
+job number assigned to this car : 2371
+departure time of this car : 209
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2386
+job number assigned to this car : 2386
+departure time of this car : 185
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2397
+job number assigned to this car : 2397
+departure time of this car : 205
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2405
+job number assigned to this car : 2405
+departure time of this car : 162
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2408
+job number assigned to this car : 2408
+departure time of this car : 0
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2415
+job number assigned to this car : 2415
+departure time of this car : 162
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2419
+job number assigned to this car : 2419
+departure time of this car : 98
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2423
+job number assigned to this car : 2423
+departure time of this car : 24
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2425
+job number assigned to this car : 2425
+departure time of this car : 81
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2427
+job number assigned to this car : 2427
+departure time of this car : 176
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2428
+job number assigned to this car : 2428
+departure time of this car : 158
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2480
+job number assigned to this car : 2480
+departure time of this car : 97
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2490
+job number assigned to this car : 2490
+departure time of this car : 194
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2514
+job number assigned to this car : 2514
+departure time of this car : 51
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2525
+job number assigned to this car : 2525
+departure time of this car : 99
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2526
+job number assigned to this car : 2526
+departure time of this car : 128
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2530
+job number assigned to this car : 2530
+departure time of this car : 282
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2534
+job number assigned to this car : 2534
+departure time of this car : 79
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2536
+job number assigned to this car : 2536
+departure time of this car : 61
+arrival time of this car : 0
+
+-----------------------------------------
+		Failed Job Car Details		        
+-----------------------------------------
+car number : 2555
+job number assigned to this car : 2555
+departure time of this car : 46
+arrival time of this car : 0
+
+Job failed count: 195

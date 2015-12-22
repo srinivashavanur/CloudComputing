@@ -1,0 +1,67 @@
+The following are the assumptions that we made while implementing this project
+
+Assumptions:
+
+1. We are simulating this project for total of 5000 incoming cars in the parking lot.
+
+2. The simulation is said to be run for 24 hours which is equivalent to 1440 minutes. For our future
+   work we will test it for >24 hours as per the instructions of our professor.
+
+3. As illustrated in the requirement, we have taken into account of 64 cluster within the parking lot. 
+   Each cluster has 40 parking spots. These 64 clusters are distributed among 16 group centers with each group center having
+   4 clusters. In addition, we have 4 different Region centers in a parking lot with each region having 4 different group centers.
+   For more information refer the spotnumber.txt, which gives the detailed information of spot location details in the parking lot.
+
+4. The disk bandwidth 200MB/s is expressed in minutes which is 12000MB/min. This disk bandwidth is considered to calculate the time it takes
+   to store data tolocal drive. This information is collected from hennessy-patterson text book as mentioned in the requirement. 
+
+5. The arrival and departure of flight details are read from input files. These arrival and departure of flight details are generated programmatically.
+   More information about generation of arrival and departure flight details are mentioned in Readme.txt. 
+   In addition, the arrival time of a car is assumed to be an hour before the flight departure and the departure time of a car is assumed to be an 
+   hour after the flight arrival.
+
+   When the simulation starts since all the spots are occupied in the parking lot, we know the information about the departure time of a car and the
+   arrival time of a car is assumed to be zero. 
+
+6. The departure time of a car for car 1-2560 is calculated with the help of a function which randomly generates the departure time.
+   The departure time and arrival time of a car for car 2561-5000 is calculated with the help of the input file.
+
+7. We assumed the VM size of each job to be in the range 1000-3000MB.
+
+8. We also assumed that it takes 6 seconds to complete 1MB of job.
+
+8. We assume that amount of data each job produces is 4 times the Virtual Machine size.
+
+9. Total job duration time is sum of time it takes to complete the job of virtual machine size, time it takes to store it to local hard disk of a car,
+   data replication time to same cluster and data replication to different cluster of same region.
+
+10. We calculated the data storage time to the local hard disk with the help of the HD bandwidth provided.
+  
+11. We calculated the data replication time to same cluster with the help of the wireless link bandwidth provided.
+ 
+12. We calculated the data replication time to same region but in a different cluster with the help of the wired 
+    and wireless link bandwidths provided.
+
+13. We assumed there are 2560 spots in the parking lot.
+
+14. We are running our simulation for total of 5000 jobs.
+
+15. In our case, car is said to be turned away if at the arrival time of the car, there are no parking spots available.
+
+16. Data replication of a job starts when we hit the middle of job, meaning when the half of the job is done. Minimum of 3 replicas are stored
+    one in the local disk of a car, car belonging to same cluster and a car belonging to different cluster of same region. We replicate the data
+    to a car having maximum departure time at that particular time of the simulation. 
+
+17. We calculated the maximum time it takes to migrate a job. In our case, the max VM size is 3 GB and with the wired and wireless links we will get
+    10 minutes for max time for migration of the largest job to the farthest car. 	
+
+ 
+
+
+
+
+
+
+	
+
+
