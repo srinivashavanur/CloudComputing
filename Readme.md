@@ -1,3 +1,10 @@
+#Vehicular Clouds
+
+Description: The goal of this project is to simulate a datacenter implemented on the cars in the parking lot of a medium-sized airport. Since the cars arrive and depart randomly, the challenge facing the implementation of the datacenter is to maintain high availability and reliability in the face of the
+dynamically changing resources. Have successfully implemented the data replication and job migration before the car departs in the parking lot. Thus with the improved migration strategy, reduced the chances of job failures
+
+
+
 Following are the output files that are generated during the simulation.
 
 1. CarsAndJobDetails.txt: This file includes the specific car details such as arriving time, departure time, Spot number that car is assigned. 
